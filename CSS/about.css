@@ -1,0 +1,19 @@
+#tab-about{
+    width: 76%;
+    height: 800px;
+    margin: 1% 11%;
+    margin-bottom: 10%;
+    background-color: lightgrey;
+    
+}
+.td-1{
+    width: 50%;
+    text-align:center;
+    vertical-align: top;
+    padding: 20px;
+    text-align: justify;
+    font-size: x-large;
+    line-height: 35px;
+}
+
+

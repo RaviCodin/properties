@@ -1,0 +1,252 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .bg-color{
+     background-color: rgb(4, 140, 252);
+     color: white;
+ }
+ /* header */
+
+ .wth{
+     width: 100%; 
+     
+ }
+ 
+ .font{
+     font-size: 21px;
+     vertical-align: middle;
+     text-align: center;
+     font-weight: bold;
+ }
+ .paddings{
+     padding: 7px;
+ }
+ .table2{
+     margin: 0.65% 0;
+     text-align: center;
+     /* border-bottom: 45px solid rgb(4, 140, 252); */
+
+     
+ }
+
+ .margn{
+     margin-left: 20%;
+ }
+
+ .nav-btn{
+     width: 10%;
+     height: 55PX;
+     /* border: none; */
+     border-color: blue;
+     border-radius: 6px;
+     background-color: white;
+     font-size: 19px;
+     transition: all .5s ease-out;
+    
+    
+     
+ }
+
+ .h1-heading{
+     text-align: center;
+     margin: 1.5% 0 1% 0;
+     font-size: 40px;
+     color: brown;
+ }
+ .h1-heading2{
+     text-align: center;
+     margin: 1.5% 0 -1% 0;
+     font-size: 40px;
+     color: brown;
+ }
+ .underline{
+     width: 8%;
+     height: 7px;
+     text-align: center;
+     background-color: brown;
+     margin: 0 46% 1.5% 46%;
+ }
+
+ .nav-btn-hover :hover{
+     border: 2px solid blue;
+     color:blue;
+     box-shadow: 3px 3px 10px 1px rgb(1, 247, 255);
+     
+ }
+a{
+    /* outline: none; */
+    text-decoration: none;
+    background-color: white;
+}
+
+
+.container{
+    /* width: 80%; */
+    height: 411px;
+    /* border: 1px solid black; */
+    margin-bottom: 5%;
+    margin-left: 11%;
+    display: flex;
+    align-items: center;
+}
+
+.divs{
+    width: 20%;
+    height: 99%;
+    text-align: center;
+    vertical-align: middle;
+    /* border: 1px solid black; */
+    margin-right: 2.5%;
+    box-shadow: 5px 5px 10px 2px gray;
+
+
+}
+.p-tg{
+    width: 100%;
+    height: 12%;
+    padding-top: 20px ; 
+    font-size: 22px;
+    /* border: 1px solid black; */
+    background-color: rgb(9, 131, 245);
+    color: white;
+}
+.divs-btn{
+    width: 100%;
+    height: 16%;
+    border: none;
+    background-color: rgb(9, 131, 245); 
+    font-size: 19px;  
+
+}
+.divs-btn:hover{
+    box-shadow: 3px 3px 10px 1px rgb(255, 217, 0);
+}
+
+#view-btn{
+    width: 5%;
+    height: 45px;
+    position: relative;
+    top: -25px;
+    left: 1350px;
+    border-radius: 6px;
+    font-size: large;
+    background-color: brown;
+    color: white;
+}
+
+.con-tbL{
+    width: 78%;
+    height: 530px;
+    margin: 0 11% 10% 11%;
+    
+}
+.con-h1{
+    width: 100%;
+    height: 60px;
+    border: 1px solid blue;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 40px;
+    background-color: blue;
+    color: yellow;
+    border-radius: 10px 10px 0 0;
+}
+.con-office{
+    width: 94.7%;
+    height: 75%;
+    border: 1px solid blue;
+    padding: 20px;
+}
+
+.input-tg{
+    width: 98.3% ;
+    height: 16%;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+#sub-btn{
+    width: 22%;
+    height: 14%;
+    margin: 0 40%;
+    background-color: brown;
+    color: white;
+    font-size: large;
+    border-radius: 50px;
+    border: none;
+
+}
+
+#foot{
+    /* width: 100%; */
+    height: 255px;
+    background-color: black;
+}
+#foot-img{
+
+    width: 900px;
+    margin-top: -80px;
+    margin-left: 11%;
+}
+#foot-by-sel{
+    position: relative;
+    left: 1200px;
+    top: -180px;
+    font-size: x-large;
+    color: white;
+}
+#foot-btn{
+    width: 20%;
+    height: 70px;
+    font-size: x-large;
+}
+
+.box{
+    width: 25%;
+    height: 90%;
+    border-top: 15px  solid black;
+    margin-top: 20px;
+    margin-right: 3%;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    box-shadow: 5px 5px 10px 5px black;
+}
+.p-tag{
+    font-size: x-large;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+.tab-foot{
+    width: 100%;
+    height: 80%;
+}
+.td-foot{
+    height: 20%;
+    text-align: center;
+    font-size: x-large;
+}
+
+.end-foot{
+    width: 78%;
+    height: 90px;
+    border: 1px solid black;
+    margin: -3% 11% 2% 11% ;
+    text-align:center;
+    padding-top: 50px;
+    background-color: black;
+    color: white;
+    font-size: x-large;
+}
+
+footer{
+    background-color: aqua;
+}
+
+
